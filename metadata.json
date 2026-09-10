@@ -1,0 +1,6 @@
+{
+  "name": "Nasent",
+  "description": "Nasent: Agentic Cold-Chain Intelligence for FEFO Redistribution — Prevent expiry. Protect availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
